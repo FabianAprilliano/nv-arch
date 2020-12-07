@@ -2,4 +2,4 @@
 
 # installing nvidia packages 
  
-sudo pacman -S nvidia nvidia-lts 
+sudo pacman -S nvidia 
