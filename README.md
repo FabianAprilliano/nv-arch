@@ -18,5 +18,5 @@ and finally the installation
 ### Optional 
 if your gpu support vulkan you can also install vulkan 
 > chmod +x vulkan.sh 
-./vulkan.sh
+&& bash vulkan.sh
 
